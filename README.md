@@ -6,7 +6,7 @@ This project helps users explore everything from **team performance** and **play
 
 ---
 
-## 📌 What This Dashboard Covers
+##  What This Dashboard Covers
 
 I pulled data from a Kaggle IPL dataset and built dynamic dashboards in Power BI. Here’s what you can explore:
 
@@ -21,7 +21,7 @@ All dashboards include filters to help you dig into data by **season**, **team**
 
 ---
 
-## 📊 Key Highlights (KPIs)
+##  Key Highlights (KPIs)
 
 - 816+ matches analyzed
 - Covers all IPL franchises
@@ -31,7 +31,7 @@ All dashboards include filters to help you dig into data by **season**, **team**
 
 ---
 
-## 🛠 Tools I Used
+##  Tools I Used
 
 - **Power BI** for building dashboards  
 - **Excel** for data cleaning  
@@ -39,7 +39,7 @@ All dashboards include filters to help you dig into data by **season**, **team**
 
 ---
 
-## 💡 Who Can Use This?
+##  Who Can Use This?
 
 This dashboard can be useful for:
 - Cricket fans who want to understand stats deeply
@@ -49,15 +49,8 @@ This dashboard can be useful for:
 
 ---
 
-## 🚀 Want to Try It Out?
 
-You can check out the project on GitHub and open the `.pbix` file in Power BI Desktop to explore:
-
-📂 GitHub Repo: [https://github.com/saikiran-034/IPL_Analyzer_Dashboard](https://github.com/saikiran-034/IPL_Analyzer_Dashboard)
-
----
-
-## 🙌 A Little About Me
+##  A Little About Me
 
 I'm a Master's student in Applied Data Science at the University of Essex and a huge fan of cricket and data. This project combines both of my passions.
 
